@@ -1,6 +1,6 @@
 # DB_BufferManager
 
-This project, written in c++, shows the internal of a data processing engine. I built a buffer manager, on
+This project, written in __c++__, shows the internal of a data processing engine. I built a buffer manager, on
 top of an I/O Layer that was provided.
 
 ### Buffer Manager concepts/background:
